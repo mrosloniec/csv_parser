@@ -1,0 +1,100 @@
+ID,ARTICLEID,ATTRIBUTE,VALUE,LANGUAGE,TYPE
+25827,5513,pronounciation,&#716;fo&#650;n&#601;&#712;t&#618;&#643;&#601;n,,1
+25828,5513,definition,An Aardvark is a distinctive animal that has two peculiar A's at the start of its name.,,1
+25829,5513,relatedpoems,,,5
+25830,5513,title,Aardvark,,1
+25831,5513,relatedterms,,,5
+25832,5513,useage,Use freely and particularly when referring to Aardvarks,,1
+25833,5514,pronounciation,&#650;�&#593;&#650;&#331;&#652;&#601;&#691;&#643;&#601;&#604;&#952;�&#602;&#605;&#658;&#712;&#603;&#618;&#618;&#716;&#618;&#594;&#596;,empty,1
+25834,5514,definition,An animal that eats a great deal of ants. Very similar to the Aardvark.,,1
+25835,5514,relatedpoems,,,5
+25836,5514,title,Anteater,,1
+25837,5514,relatedterms,,,5
+25838,5514,useage,Sparingly.,,1
+25849,5513,pronounciationaudio,"single,1111,,",,3
+25935,5513,definitionsummary,Aardvark description summary,,1
+25936,5514,definitionsummary,Short defination of Anteater,,1
+25943,5513,synonyms,,,5
+25995,5514,synonyms,,,5
+25996,5547,synonyms,,,5
+25997,5547,pronounciation,,,1
+25998,5547,definition,"Alliteration is the use of the same consonant sounds in words that are near each other.  It is the sound, not the letter, that is important:  therefore 'city' and 'code' do not alliterate, but 'kitchen' and 'code' do.  Strictly, it is alliteration when these same sounds come at the start of the words, or at the start of their first stressed syllable;  it becomes consonance when the similar sounds are found in other places within the word.<br /><br />
+
+To the Anglo-Saxons, alliteration was more important than rhyme; Kevin Crossley-Holland's poem 'Translation Workshop: Grit and Blood' enacts the translation of a piece of Anglo-Saxon alliterative verse by moving in and out of strong alliteration, testing its effects.  Sean O'Brien's use of alliteration in the opening stanzas of 'Reading Stevens in the Bath' has the effect of separating the two rivers:  the flow of the phrase ""far / from the furnished banks"" contrasts cleverly with the spluttery ""poisoned soup of prawns"".  Anne Ridler's 'Choosing a Name' presents her new-born son ""wailing over a world / With walls too wide"", the effect of the alliteration here being to link the wailing with the reason for it.",,1
+25999,5547,relatedpoems,,,5
+26000,5547,title,Alliteration,,1
+26001,5547,definitionsummary,Repetition of the same initial consonant sounds,,1
+26002,5547,relatedterms,,,5
+26003,5547,useage,Sebastian Barker even uses alliteration in the title of 'Holy the Heart on Which we Hang Our Hope',,1
+26013,5550,synonyms,,,5
+26014,5550,pronounciation,,,1
+26015,5550,definition,"Metre is from the Greek word for measuring; at its most basic, metre is a system of describing what we can measure about the audible features of a poem.    The systems that have been used in history to structure metres are:  the number of syllables (syllabic); the duration of syllables (quantitative); the number of stressed syllables, or accents (accentual); and combinations of the above.  English is not a language that works easily in quantitative metre (although this has not stopped people trying), and it has developed an accentual-syllabic metre for its formal verse.  This means that, in a formal poem, the poet will be counting the syllables, the stresses, and keeping them to a pattern.<br />
+<br />
+To describe the pattern, the stressed and unstressed syllables are gathered into groups known as feet, and the number of feet to a line gives a name thus:<br />
+<br />
+1 foot: monometer<br />
+2 feet: dimeter<br />
+3 feet: trimeter<br />
+4 feet: tetrameter<br />
+5 feet: pentameter<br />
+6 feet: hexameter<br />
+7 feet: heptameter<br />
+8 feet: octameter<br />
+<br />
+Lines of less than 3 or more than 6 feet are rare in formal poems.<br />
+<br />
+The pattern of the syllables within a foot is also noted.  A foot that is one unstressed syllable followed by a stressed one, for example, is an iamb;  three of these in a row would be an iambic trimeter, while five make the famous iambic pentameter.  All the common feet are outlined under 'Foot' in the glossary.<br />
+<br />
+Like the rhythm in a piece of music, the metre is an underlying structure.  Poets often slip in extra feet, or remove them, or change stress patterns around to prevent monotony, like playing rubato.  (Sometimes a poem seems to be exploring how far a line can be pushed without losing all connection with the underlying metre.)  This means that the discovery of a foot other than an iamb in the middle of what is otherwise iambic, say, does not stop the poem from being iambic;  rather the attention ends up lingering at that point, so the word on the different foot ends up more powerful as it has the attention longer.   An example of this can be found in Peter Dale's 'Half-Light'; he writes ""I'm trying not to give another glance. / Lit window thirty years back up that path.""  The first line is a perfectly regular iambic pentameter, but the second introduces an extra stress on ""Lit"", so that what the speaker's trying not to be drawn to seems more powerful, perhaps helping us empathise with him when he does look back and ""catch her eye an instant"".",,1
+26016,5550,relatedpoems,,,5
+26017,5550,title,Metre,,1
+26018,5550,definitionsummary,Systems of measuring the audible features of poetry,,1
+26019,5550,relatedterms,,,5
+26020,5550,useage,,,1
+26021,5551,synonyms,,,5
+26022,5551,pronounciation,,,1
+26023,5551,definition,"Assonance is the repetition of vowel sounds in words that are close to each other - this also includes diphthongs.  Like alliteration, it is the sound rather than the letter used that is important.  <br /><br />
+
+When the speaker of John Betjeman's 'A Subaltern's Love Song' says ""westering, questioning settles the sun / On your low-leaded window"", the line is bound up with assonance on the <i>e</i> sound; like the strong alliteration and rhyme throughout, this adds to the jaunty music of the poem.  More subtle is Adrienne Rich's use of the technique in the opening of 'For This', where the vowel sounds of ""stir the nerves"" are woven together with those of ""letters from the dead"" and ""skeletons and petals"".",,1
+26024,5551,relatedpoems,,,5
+26025,5551,title,Assonance,,1
+26026,5551,definitionsummary,Repetition of vowel sounds,,1
+26027,5551,relatedterms,,,5
+26028,5551,useage,"Charles Tomlinson's poem, 'A Rose for Janet', opens with a sustained display of assonance.",,1
+26029,5552,synonyms,,,5
+26030,5552,pronounciation,,,1
+26031,5552,definition,"Strictly, a ballad is a form of poetry that alternates lines of four and three beats, often in quatrains, rhymed <i>abab</i>, and often telling a story - the anonymous poem 'Sir Patrick Spens' and Wordsworth's ""A Slumber Did My Spirit Seal"" demonstrate this well.  The alternating sequence of four and three stresses is sometimes called common measure, especially when used for hymns.  It is an appropriate name, as it is a very common form, with examples found from medieval lyrics to contemporary birthday cards, and is often the form used on TV when the scriptwriters want a character to have written a poem.<br /><br />
+
+Within the Archive, Brian Patten's use of the form in 'Geography Lesson' echoes John Masefield's sea ballads, making the teacher's failure to explore the seas more poignant;  Robert Minhinnick's 'Yellow Palm', the only strongly-rhymed poem in his reading, uses the form's familiarity to temper the political anger that it contains.  It is also a form that can survive the bending of its rules, as in the case of Causley's 'Miller's End' - this has tetrametric lines throughout, but retains the flavour, the forward motion of the form.  However, Sebastian Barker's poem 'The Articles of Prayer', while it does use the ballad metre, is lacking a narrative and would therefore not normally be called a ballad.",,1
+26032,5552,relatedpoems,,,5
+26033,5552,title,Ballad,,1
+26034,5552,definitionsummary,"A rhyming narrative poem, usually in quatrains",,1
+26035,5552,relatedterms,,,5
+26036,5552,useage,,,1
+26037,5553,synonyms,,,5
+26038,5553,pronounciation,,,1
+26039,5553,definition,"Bathos is the name given to the feeling that the tone or language being used is far more elevated than is appropriate.  Unintentional bathos can utterly scupper a poem, as that sense of distance and disconnectedness is funny, but that humour can be used intentionally, often to humorous or satiric effect.  The speaker in Ian Duhig's 'According to Dineen', for example, reaches for the images of high romance, such as the moon, but each time finds a bathetic image, like the half-boiled potato, that brings the poem down to earth.  The love may not be in doubt, but trying to express it ""properly, according to Dineen"" is shown to be in vain.",,1
+26040,5553,relatedpoems,,,5
+26041,5553,title,Bathos,,1
+26042,5553,definitionsummary,The use of language that is more elevated than seems appropriate,,1
+26043,5553,relatedterms,,,5
+26044,5553,useage,"Kit Wright is either a big fan of power stations, or his 'Ode to Didcot Power Station' is using bathos.",,1
+26051,5555,synonyms,,,5
+26052,5555,pronounciation,,,1
+26053,5555,definition,"Blank verse is a form based on unrhymed lines of iambic pentameter.  The verse parts of Shakespeare's plays are blank verse (with exceptions, such as the witches' recipe), as is Milton's Paradise Lost.  The form is one that is close to normal speech (indeed, ""the form is one that's close to normal speech"" is itself an iambic pentameter) so it gives a subtle pulse to a poem, rather than an obvious shaping as a limerick might.  However, there is a tendency in contemporary poetry to use shorter lines, so the form can also sound stately or slow to a modern ear.<br /><br />
+
+'The Waste Land' uses this effect, so that the difference between the lines ""I read, much of the night, and go south in winter"" and ""What are the roots that clutch, what branches grow / Out of this stony rubbish?"" are very much audible, the strict blank verse of the second section sounding instantly more oratorical than the looser metre of the earlier, more human, line.  On the other hand, David Gascoyne's 'Prelude to a New Fin-de-Siecle' begins in blank verse and, as the poem turns to what exceeds the powers of poetry, the line length exceeds blank verse, stretching to hexameter, or even heptameter.<br /><br />
+
+It is interesting to wonder if important pieces of blank verse such as in Shakespeare's plays, <i>Paradise Lost</i> and <i>The Prelude</i> are in blank verse because it sounds natural, or if they influenced speech so much that they made blank verse sound natural.",,1
+26054,5555,relatedpoems,,,5
+26055,5555,title,Blank Verse,,1
+26056,5555,definitionsummary,A form based on unrhymed lines of iambic pentameter.,,1
+26057,5555,relatedterms,,,5
+26058,5555,useage,,,1
+26084,5561,synonyms,,,5
+26085,5561,pronounciation,,,1
+26086,5561,definition,"Cadence is a term borrowed from music, where it refers to the use of a group of notes or chords used to end a piece of music or a phrase within it.  As it can also be used to refer to the audible features of speech - a statement slowing and falling in pitch as it ends, for example, or the pause that a comma demands - it has been taken up by poets to refer to the pitch and rhythm of words within a poem.  Unlike discussions of metre, which refer to the beat underlying what is said, cadence attends to actual variations.  <br /><br />
+
+For example, Ian McMillan's 'For Me', a poem about not having to rhyme, makes three ridiculous arguments that use the same cadences; this achieves the effects of linking the stanzas by sound, without using rhyme.  In Michael Longley's 'The Ice-Cream Man', there is a recurring metre ticking away under the whole poem, but a line that contains a narrative sentence, such as ""and you bought carnations to lay outside his shop"", carries a different cadence from one containing a list, like ""Meadowsweet, tway blade, crowfoot, ling, angelica"".  This is one way of keeping a regular metre from becoming dull with repetition, and also has the effect of binding the two list cadences, of flowers and flavours, a little closer in the ear.",,1
+26087,5561,relatedpoems,,,5
+26088,5561,title,Cadence,,1
